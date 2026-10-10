@@ -1,0 +1,12 @@
+﻿{
+  "appName": "ChatGPT",
+  "version": "1.2026.223",
+  "forceUpdate": false,
+  "updateUrl": "https://github.com/perceojon-creator/chat-apk",
+  "btnUpdateText": "UPDATE",
+  "btnExitText": "EXIT",
+  "changelog": [
+    "Repositorio base migrado a perceojon-creator/chat-apk",
+    "Pantalla desbloqueada (forceUpdate: false)"
+  ]
+}
