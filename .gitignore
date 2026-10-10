@@ -1,0 +1,6 @@
+*.idsig
+*.bak
+*.log
+.temp/
+build/
+dist/
